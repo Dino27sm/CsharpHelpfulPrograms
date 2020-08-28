@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\bin\Debug\netcoreapp3.1\StringsSplitToSmallM1.exe
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\bin\Debug\netcoreapp3.1\StringsSplitToSmallM1.deps.json
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\bin\Debug\netcoreapp3.1\StringsSplitToSmallM1.runtimeconfig.json
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\bin\Debug\netcoreapp3.1\StringsSplitToSmallM1.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\bin\Debug\netcoreapp3.1\StringsSplitToSmallM1.dll
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\bin\Debug\netcoreapp3.1\StringsSplitToSmallM1.pdb
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\obj\Debug\netcoreapp3.1\StringsSplitToSmallM1.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\obj\Debug\netcoreapp3.1\StringsSplitToSmallM1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\obj\Debug\netcoreapp3.1\StringsSplitToSmallM1.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\obj\Debug\netcoreapp3.1\StringsSplitToSmallM1.AssemblyInfo.cs
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\obj\Debug\netcoreapp3.1\StringsSplitToSmallM1.dll
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\obj\Debug\netcoreapp3.1\StringsSplitToSmallM1.pdb
+C:\Users\Owner\source\repos\HelpProgramsM1\StrngsSplitToSmallM1\obj\Debug\netcoreapp3.1\StringsSplitToSmallM1.genruntimeconfig.cache

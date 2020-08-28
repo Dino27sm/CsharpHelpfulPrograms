@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\HelpProgramsM1\RotateArrayCounterClockwise\bin\Debug\netcoreapp3.1\RotateArrayCounterClockwise.exe
+C:\Users\Owner\source\repos\HelpProgramsM1\RotateArrayCounterClockwise\bin\Debug\netcoreapp3.1\RotateArrayCounterClockwise.deps.json
+C:\Users\Owner\source\repos\HelpProgramsM1\RotateArrayCounterClockwise\bin\Debug\netcoreapp3.1\RotateArrayCounterClockwise.runtimeconfig.json
+C:\Users\Owner\source\repos\HelpProgramsM1\RotateArrayCounterClockwise\bin\Debug\netcoreapp3.1\RotateArrayCounterClockwise.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\HelpProgramsM1\RotateArrayCounterClockwise\bin\Debug\netcoreapp3.1\RotateArrayCounterClockwise.dll
+C:\Users\Owner\source\repos\HelpProgramsM1\RotateArrayCounterClockwise\bin\Debug\netcoreapp3.1\RotateArrayCounterClockwise.pdb
+C:\Users\Owner\source\repos\HelpProgramsM1\RotateArrayCounterClockwise\obj\Debug\netcoreapp3.1\RotateArrayCounterClockwise.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\HelpProgramsM1\RotateArrayCounterClockwise\obj\Debug\netcoreapp3.1\RotateArrayCounterClockwise.AssemblyInfo.cs
+C:\Users\Owner\source\repos\HelpProgramsM1\RotateArrayCounterClockwise\obj\Debug\netcoreapp3.1\RotateArrayCounterClockwise.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\HelpProgramsM1\RotateArrayCounterClockwise\obj\Debug\netcoreapp3.1\RotateArrayCounterClockwise.dll
+C:\Users\Owner\source\repos\HelpProgramsM1\RotateArrayCounterClockwise\obj\Debug\netcoreapp3.1\RotateArrayCounterClockwise.pdb
+C:\Users\Owner\source\repos\HelpProgramsM1\RotateArrayCounterClockwise\obj\Debug\netcoreapp3.1\RotateArrayCounterClockwise.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\bin\Debug\netcoreapp3.1\IndexRotateToLeft.exe
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\bin\Debug\netcoreapp3.1\IndexRotateToLeft.deps.json
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\bin\Debug\netcoreapp3.1\IndexRotateToLeft.runtimeconfig.json
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\bin\Debug\netcoreapp3.1\IndexRotateToLeft.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\bin\Debug\netcoreapp3.1\IndexRotateToLeft.dll
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\bin\Debug\netcoreapp3.1\IndexRotateToLeft.pdb
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\obj\Debug\netcoreapp3.1\IndexRotateToLeft.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\obj\Debug\netcoreapp3.1\IndexRotateToLeft.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\obj\Debug\netcoreapp3.1\IndexRotateToLeft.AssemblyInfo.cs
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\obj\Debug\netcoreapp3.1\IndexRotateToLeft.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\obj\Debug\netcoreapp3.1\IndexRotateToLeft.dll
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\obj\Debug\netcoreapp3.1\IndexRotateToLeft.pdb
+C:\Users\Owner\source\repos\HelpProgramsM1\IndexRotateToLeft\obj\Debug\netcoreapp3.1\IndexRotateToLeft.genruntimeconfig.cache
