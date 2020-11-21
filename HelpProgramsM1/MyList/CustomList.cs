@@ -1,10 +1,25 @@
-﻿namespace MyList
+﻿namespace MyListM1
 {
     using System;
     using System.Text;
+    using System.Collections.Generic;
+    using System.Collections;
 
-    public class CustomList<T>
+    public class CustomList<T> : IEnumerable<T>
     {
+        public IEnumerator<T> GetEnumerator()
+        {
+            for (int i = 0; i < this.Count; i++)
+            {
+                yield return this.internalArray[i];
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
+
         private const int INTERNAL_ARRAY_INITIAL_CAPACITY = 2;
         private int currentCapacity;
         private T[] internalArray;
@@ -18,7 +33,7 @@
 
         public int Count { get; private set; }
 
-        public T this[int index] 
+        public T this[int index]
         {
             get
             {
@@ -34,7 +49,7 @@
 
         public void Add(T element)
         {
-            if(ResizeNecessary()) 
+            if (ResizeNecessary())
                 Resize();
             this.internalArray[this.Count] = element;
             this.Count++;
@@ -107,7 +122,7 @@
 
         private void ShiftLeft(int startIndex)
         {
-            for (int i = startIndex; i < this.Count -1; i++)
+            for (int i = startIndex; i < this.Count - 1; i++)
             {
                 this.internalArray[i] = this.internalArray[i + 1];
             }
@@ -139,9 +154,9 @@
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < this.Count; i++)
             {
-                sb.Append($"{this.internalArray[i]:F1}, ");
+                sb.Append($"{this.internalArray[i]}, ");
             }
-            return sb.ToString().TrimEnd(new char[]{',', ' ' });
+            return sb.ToString().TrimEnd(new char[] { ',', ' ' });
         }
     }
 }
