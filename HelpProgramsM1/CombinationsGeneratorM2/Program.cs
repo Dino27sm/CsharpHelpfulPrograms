@@ -53,11 +53,6 @@ namespace CombinationsGeneratorM2
                 }
                 allCombinations.Add(combination);
 
-                //string combinIndexes = string.Join(" ", currentIndexes.TakeLast(combinationLength));
-                //string combinSymbols = string.Join(" ", combination);
-                //Console.WriteLine($"Indexes: [{combinIndexes}] --- ({combinSymbols})");
-                //Console.WriteLine(combinSymbols);
-
                 if (endCombin) break;  // To Break WHILE LOOP --------------------------
 
                 bool isOverload = false;
